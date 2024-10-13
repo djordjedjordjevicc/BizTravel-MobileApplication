@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713212226377",
+    "project_id": "biztravel2-5b197",
+    "storage_bucket": "biztravel2-5b197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713212226377:android:3b69bc6f5e9a78316ac898",
+        "android_client_info": {
+          "package_name": "com.example.biztravel2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPQDVnLNN9GA5MEqbLiGfYyWSj_yq9yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
